@@ -1,6 +1,6 @@
 # Swansky
 
-Future Data Engineer 💻. Currently working as a freelance software developer with a focus on Minecraft and Discord environments.
+Software / Data Engineer 💻. Currently working as a freelance software developer with a focus on Minecraft and Discord environments.
 
 - 🌐 **Portfolio:** [swansky.fr](https://swansky.fr)
 - 📫 **Contact:** [pro@swansky.fr](mailto:pro@swansky.fr)
